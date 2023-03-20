@@ -1,0 +1,4 @@
+# checkcoverage
+
+EJEMPLO
+2
